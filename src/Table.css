@@ -1,0 +1,30 @@
+.table {
+  width: 1000px;
+  margin: 30px auto;
+}
+
+thead {
+  background-color: #fbbb21;
+  padding: 30px 40px;
+  color: white;
+  text-align: center;
+}
+
+thead tr {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+thead tr th {
+  cursor: pointer;
+  position: relative;
+  padding: 12px 8px 12px 40px;
+  background: black;
+  font-size: 18px;
+  transition: 0.2s;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
