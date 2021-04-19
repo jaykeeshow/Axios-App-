@@ -3,9 +3,9 @@ This is a simple project that fetches some user data from a public API endpoint 
 
 
 **Technologies**
-React Create React App to write the app
+React Create React App to write the app,
 Axios for fetching purposes
-Material UI Bootstrap for UI
+Material UI Bootstrap for UI,
 
 
 **Setup**
